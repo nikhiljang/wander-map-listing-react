@@ -4,7 +4,7 @@ const Tours = ({tours ,removeTour}) => {
   return <section>
 
     <div className="title">
-      <h2>Wander Map LGITisting</h2>
+      <h2>Wander Map Listing</h2>
       <div className="underline"></div> 
     </div> 
 
